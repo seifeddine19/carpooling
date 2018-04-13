@@ -12,8 +12,8 @@ require (CORE.DS.'include.php');
 
 new Dispatcher();
 //print_r($_SERVER);
-echo WEBROOT ."<br>";
-echo Root ."<br>";
-echo CORE ."<br>";
-echo RacineUrl ."<br>";
+//echo WEBROOT ."<br>";
+//echo Root ."<br>";
+//echo CORE ."<br>";
+//echo RacineUrl ."<br>";
 ?>

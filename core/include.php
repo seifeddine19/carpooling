@@ -5,7 +5,11 @@
  * Date: 12/04/2018
  * Time: 00:34
  */
-
-require ('Dispatcher.php');
-require ('Route.php');
 require ('Request.php');
+require ('Route.php');
+require ('Controller.php');
+require ('Dispatcher.php');
+
+
+
+
